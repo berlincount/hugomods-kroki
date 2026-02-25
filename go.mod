@@ -1,3 +1,3 @@
-module github.com/hugomods/kroki
+module github.com/berlincount/hugomods-kroki
 
 go 1.18
